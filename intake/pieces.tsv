@@ -1,0 +1,15 @@
+piece_id	artist	clay_body	cone	weight_g	state	revision
+CR-ALDER	Mina Sol	stoneware	6	1100	queued	1
+CR-BRAMB	Oren Vale	porcelain	6	980	queued	1
+CR-COPAL	Tess Rowan	stoneware	6	760	queued	1
+CR-DUNEQ	Ivo March	porcelain	6	640	queued	1
+CR-ELMRY	Nia Bloom	stoneware	6	510	queued	1
+CR-FERNX	Pax Reed	porcelain	6	430	queued	1
+CR-GALEY	Uma Frost	earthenware	5	820	queued	1
+CR-HARPO	Leo Quill	stoneware	6	700	held	1
+CR-IVORY	Ada Wren	porcelain	6	450	queued	1
+CR-ALDER	Mina Sol	stoneware	6	1120	queued	2
+CR-BRAMB	Oren Vale	porcelain	6	990	held	0
+CR-JUNIP	Rae Moss	stoneware	6	600	queued	01
+bad-id	Niko Pine	stoneware	6	500	queued	1
+CR-KELPY		stoneware	6	500	queued	1
