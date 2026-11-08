@@ -1,0 +1,88 @@
+{
+  "firing_window": "2094-10",
+  "capacity_g": 1500,
+  "piece_count": 6,
+  "load_count": 4,
+  "loads": [
+    {
+      "load_id": "LOAD-01",
+      "clay_body": "porcelain",
+      "total_weight_g": 1410,
+      "fill_percent": 94,
+      "pieces": [
+        {
+          "piece_id": "CR-BRAMB",
+          "artist": "Oren Vale",
+          "weight_g": 980,
+          "cert_id": "QC-202",
+          "checked_on": "2094-10-03",
+          "glaze": "Cobalt"
+        },
+        {
+          "piece_id": "CR-FERNX",
+          "artist": "Pax Reed",
+          "weight_g": 430,
+          "cert_id": "QC-206",
+          "checked_on": "2094-10-01",
+          "glaze": "Chalk"
+        }
+      ]
+    },
+    {
+      "load_id": "LOAD-02",
+      "clay_body": "stoneware",
+      "total_weight_g": 1270,
+      "fill_percent": 85,
+      "pieces": [
+        {
+          "piece_id": "CR-COPAL",
+          "artist": "Tess Rowan",
+          "weight_g": 760,
+          "cert_id": "QC-213",
+          "checked_on": "2094-10-08",
+          "glaze": "Moss"
+        },
+        {
+          "piece_id": "CR-ELMRY",
+          "artist": "Nia Bloom",
+          "weight_g": 510,
+          "cert_id": "QC-205",
+          "checked_on": "2094-10-05",
+          "glaze": "Sienna"
+        }
+      ]
+    },
+    {
+      "load_id": "LOAD-03",
+      "clay_body": "stoneware",
+      "total_weight_g": 1120,
+      "fill_percent": 75,
+      "pieces": [
+        {
+          "piece_id": "CR-ALDER",
+          "artist": "Mina Sol",
+          "weight_g": 1120,
+          "cert_id": "QC-201",
+          "checked_on": "2094-10-04",
+          "glaze": "Transparent"
+        }
+      ]
+    },
+    {
+      "load_id": "LOAD-04",
+      "clay_body": "porcelain",
+      "total_weight_g": 640,
+      "fill_percent": 43,
+      "pieces": [
+        {
+          "piece_id": "CR-DUNEQ",
+          "artist": "Ivo March",
+          "weight_g": 640,
+          "cert_id": "QC-204",
+          "checked_on": "2094-10-02",
+          "glaze": "Ash"
+        }
+      ]
+    }
+  ]
+}
